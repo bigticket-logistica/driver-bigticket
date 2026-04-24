@@ -1,0 +1,24 @@
+{
+  "name": "Portal del Chofer · Bigticket",
+  "short_name": "Bigticket",
+  "description": "Portal del chofer de Bigticket — pagos, desempeño, documentos y chat con Biggi.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#002F5D",
+  "theme_color": "#002F5D",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='42' fill='%23F47B20'/%3E%3Ctext x='96' y='138' font-family='Arial Black' font-size='116' font-weight='900' fill='white' text-anchor='middle'%3EB%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%23F47B20'/%3E%3Ctext x='256' y='370' font-family='Arial Black' font-size='310' font-weight='900' fill='white' text-anchor='middle'%3EB%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
